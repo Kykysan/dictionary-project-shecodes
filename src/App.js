@@ -9,7 +9,7 @@ export default function App() {
         <Dictionary />
       </header>
       <footer>
-        <a href="https://github.com/Kykysan/dictionary-project-shecodes" target="_blank" rel="noreferrer" id="git-hub">Open source code</a> by Kylee San Miguel
+        <a href="https://github.com/Kykysan/dictionary-project-shecodes" target="_blank" rel="noreferrer">Open source code</a> by Kylee San Miguel
       </footer>
       </div>
     </div>
