@@ -8,6 +8,7 @@ export default function App() {
       <header className="App-header">
         <Dictionary />
       </header>
+      
       <footer>
         <a href="https://github.com/Kykysan/dictionary-project-shecodes" target="_blank" rel="noreferrer">Open source code</a> by Kylee San Miguel
       </footer>
