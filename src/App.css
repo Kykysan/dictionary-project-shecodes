@@ -1,3 +1,27 @@
+body {
+  background-image: url(https://wallpaper-house.com/data/out/9/wallpaper2you_347834.jpg);
+  font-family: "Iceland", cursive;
+}
+
+.App {
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+}
+
+.App h1 {
+  font-size: 70px;
+}
+
+.App h2 {
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+.App a {
+  color: #9aeadd;
+}
+
 .App-footer {
   text-align: center;
   font-size: smaller;
