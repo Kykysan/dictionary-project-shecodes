@@ -1,0 +1,20 @@
+h3 {
+  font-family: "Iceland", cursive;
+}
+
+.Meaning {
+  font-family: "Cairo", sans-serif;
+  font-size: 18px;
+}
+
+.Meaning .definition {
+  font-weight: bolder;
+  color: #b41d65;
+  font-size: 20px;
+}
+
+.Meaning .example {
+  font-weight: bolder;
+  color: #9113c9;
+  font-size: 20px;
+}
