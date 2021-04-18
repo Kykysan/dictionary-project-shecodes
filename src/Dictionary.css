@@ -1,0 +1,22 @@
+form {
+  margin: 0 auto;
+  padding-top: 25px;
+}
+
+input {
+  margin-top: 20px;
+  width: 500px;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+  padding-left: 10px;
+  color: white;
+  box-shadow: 5px 5px 7px rgba (0, 0, 0, 0.7);
+}
+
+input:focus {
+  background-color: rgba(255, 255, 255, 0.3);
+}
