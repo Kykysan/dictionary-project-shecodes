@@ -14,7 +14,7 @@ h3 {
 }
 
 .Meaning .example {
-  font-weight: bolder;
-  color: #9113c9;
-  font-size: 20px;
+  font-size: 18px;
+  opacity: 0.7;
+  font-style: italic;
 }
