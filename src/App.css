@@ -6,16 +6,18 @@ body {
 .App {
   text-align: center;
   padding-top: 50px;
-  color: white;
 }
 
 .App h1 {
-  font-size: 70px;
+  font-size: 80px;
+  color: white;
 }
 
 .App h2 {
   padding-top: 50px;
   margin: 0 auto;
+  font-size: 35px;
+  color: white;
 }
 
 .App a {
@@ -25,4 +27,5 @@ body {
 .App-footer {
   text-align: center;
   font-size: smaller;
+  color: white;
 }
