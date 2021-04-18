@@ -1,0 +1,15 @@
+.Phonetic {
+  text-align: left;
+  font-size: 30px;
+  color: black;
+}
+
+.Phonetic a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.Phonetic .text {
+  opacity: 0.5;
+  font-weight: bold;
+}

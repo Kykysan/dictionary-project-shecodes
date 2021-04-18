@@ -1,0 +1,16 @@
+.Results section {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 10px 10px rgb(0 0 0/10%);
+  margin: 20px 0;
+  color: black;
+}
+
+.Results h3 {
+  font-size: 70px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+  color: black;
+}
