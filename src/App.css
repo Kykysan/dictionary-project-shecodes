@@ -13,6 +13,8 @@ footer {
 .App {
   text-align: center;
   padding-top: 50px;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App h1 {
